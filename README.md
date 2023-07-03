@@ -5,3 +5,4 @@
 ![BLDC_Driver](https://user-images.githubusercontent.com/112414454/230738263-9fcd6531-cd45-4f9c-85cb-efc18a2796db.jpeg)
 ![Uploading image2.jpeg…]()
 ![image4](https://user-images.githubusercontent.com/112414454/230738328-2e90f336-0d21-42fd-8cd7-16c757529b28.jpeg)
+![yansıma](https://github.com/EnginTanrikulu01/BLDC-MOTOR-CONTROL-AND-INTERFACE-DESIGN/assets/112414454/b02c3cda-baa5-404e-84df-8c08bb20ab5e)
