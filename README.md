@@ -6,3 +6,4 @@
 ![Uploading image2.jpeg…]()
 ![image4](https://user-images.githubusercontent.com/112414454/230738328-2e90f336-0d21-42fd-8cd7-16c757529b28.jpeg)
 ![yansıma](https://github.com/EnginTanrikulu01/BLDC-MOTOR-CONTROL-AND-INTERFACE-DESIGN/assets/112414454/b02c3cda-baa5-404e-84df-8c08bb20ab5e)
+![Arayuz](https://github.com/EnginTanrikulu01/BLDC-MOTOR-CONTROL-AND-INTERFACE-DESIGN/assets/112414454/cdee4dc7-7c78-41df-a732-7885c6680cd4)
